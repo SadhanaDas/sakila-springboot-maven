@@ -31,3 +31,9 @@ The backend files are present in the folder Sakila_film:
        > FilmService.java //interface 
   7. Sakila film.serviceimpl
        > FilmServiceImpl.java //implements the above interface
+       
+The Fontend is implemented using VS Code and GO Extension is implemented for testing purpose.
+The main UI is as below image:
+
+<img width="805" alt="image" src="https://user-images.githubusercontent.com/77729425/202119040-3d90142e-f048-4b8c-9512-7f984c77a3d3.png">
+
